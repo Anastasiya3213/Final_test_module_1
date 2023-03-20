@@ -1,0 +1,15 @@
+F:\Git_gb\Final_Task_Block_1\Task1\bin\Debug\net6.0\Task1.exe
+F:\Git_gb\Final_Task_Block_1\Task1\bin\Debug\net6.0\Task1.deps.json
+F:\Git_gb\Final_Task_Block_1\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+F:\Git_gb\Final_Task_Block_1\Task1\bin\Debug\net6.0\Task1.dll
+F:\Git_gb\Final_Task_Block_1\Task1\bin\Debug\net6.0\Task1.pdb
+F:\Git_gb\Final_Task_Block_1\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+F:\Git_gb\Final_Task_Block_1\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git_gb\Final_Task_Block_1\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+F:\Git_gb\Final_Task_Block_1\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+F:\Git_gb\Final_Task_Block_1\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+F:\Git_gb\Final_Task_Block_1\Task1\obj\Debug\net6.0\Task1.dll
+F:\Git_gb\Final_Task_Block_1\Task1\obj\Debug\net6.0\refint\Task1.dll
+F:\Git_gb\Final_Task_Block_1\Task1\obj\Debug\net6.0\Task1.pdb
+F:\Git_gb\Final_Task_Block_1\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+F:\Git_gb\Final_Task_Block_1\Task1\obj\Debug\net6.0\ref\Task1.dll
